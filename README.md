@@ -1,5 +1,5 @@
 ### Hi there 👋
-## _I am  *Abhishek Singh Rathore* an Aspiring Full Stack Developer._
+## _I am  **Abhishek Singh Rathore** an Aspiring Full Stack Developer._
 
 <!--
 **abhishek-s-rathore/abhishek-s-rathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
