@@ -1,11 +1,13 @@
-# Hi, I'm __Abhishek Singh Rathore__. 👋
+# Hi, I'm **Abhishek Singh Rathore**. 👋
 
-<iframe src="https://giphy.com/embed/RJVw6tIfb2dIwTHFb0" width="480" height="312" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NeighborlyNotaryNYC-congrats-man-office-dispassionate-RJVw6tIfb2dIwTHFb0">via GIPHY</a></p>
+![](./assets/giphy.gif)
 
 ### :white_medium_small_square: About Me
+
 "An Aspiring Full Stack Web Developer."
 
 ### :white_medium_small_square: Get In Touch
+
 <!-- <nav>
     <a href="https://www.linkedin.com" target="blank">
     <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px" />
@@ -15,8 +17,9 @@
     <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
 </nav>
 <br> -->
-         
-###  :white_medium_small_square: Tech Stack
+
+### :white_medium_small_square: Tech Stack
+
 <p> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="SASS" src="https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
