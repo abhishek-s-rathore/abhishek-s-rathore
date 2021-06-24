@@ -2,6 +2,7 @@
 
 <div align="center"> <img  src="./assets/giphy.gif" width="55%"> </div>
 <br>
+<br>
 
 ### :white_medium_small_square: About Me
 
@@ -16,18 +17,18 @@
 ### :white_medium_small_square: Get In Touch
 
 <nav>
-    <a href="https://www.linkedin.com" target="blank">
-    <img src="./assets/linkedin-icon.png" width="25px" height="25px"/> </a>
-       <a href="https://twitter.com">
-    <img src="./assets/twitter-icon.png" width="25px" height="25px"/> </a>
-          <a href="mailto:abhishek.140999@gmail.com">
-    <img src="./assets/gmail-icon.png" width="25px" height="25px"/> </a>
-     <a href="https://codewars.com">
-    <img src="./assets/codewars-icon.png" width="25px" height="25px"/> </a>
+    <a href="https://www.linkedin.com/in/abhishek-singh-rathore-878372205" target="_blank">
+    <img src="./assets/linkedin-icon.png" width="30px" height="30px"/> </a>
+       <a href="https://twitter.com/TheAbhi98765" target="_blank">
+    <img src="./assets/twitter-icon.png" width="30px" height="30px"/> </a>
+          <a href="mailto:abhishek.140999@gmail.com" target="_blank">
+    <img src="./assets/gmail-icon.png" width="30px" height="30px"/> </a>
+     <a href="https://www.codewars.com/users/abhishek-s-rathore" target="_blank">
+    <img src="./assets/codewars-icon.png" width="30px" height="30px"/> </a>
 </nav>
 <br>
 
-### :white_medium_small_square: Tech Stack
+### :white_medium_small_square: Tech And Tools
 
 <p> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
