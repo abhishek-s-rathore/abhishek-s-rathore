@@ -7,17 +7,25 @@
 
 "An Aspiring Full Stack Web Developer."
 
+<!-- - 🔭 I’m currently working on Advanced JavaScript -->
+<!-- - 🌱 I’m currently learning Advanced JavaScript -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - ⚡ Fun fact: ... -->
+
 ### :white_medium_small_square: Get In Touch
 
-<!-- <nav>
+<nav>
     <a href="https://www.linkedin.com" target="blank">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="25px" />
+    <img src="./assets/linkedin-icon.png" width="25px" height="25px"/> </a>
        <a href="https://twitter.com">
-    <img align="left" src="http://i.imgur.com/tXSoThF.png" width="32px"  />
-          <a href="https://codewars.com">
-    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
+    <img src="./assets/twitter-icon.png" width="25px" height="25px"/> </a>
+          <a href="mailto:abhishek.140999@gmail.com">
+    <img src="./assets/gmail-icon.png" width="25px" height="25px"/> </a>
+     <a href="https://codewars.com">
+    <img src="./assets/codewars-icon.png" width="25px" height="25px"/> </a>
 </nav>
-<br> -->
+<br>
 
 ### :white_medium_small_square: Tech Stack
 
@@ -34,14 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="255px" width="66.75%"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="255px" width="32.25%"/>
 </p>
-
-<!--
-- 🔭 I’m currently working on Advanced JavaScript
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
