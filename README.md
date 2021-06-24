@@ -25,8 +25,8 @@
          
 ### :white_medium_small_square: GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="255px" width="65%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="255px" width="43%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="255px" width="66.75%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="255px" width="32.25%"/>
 </p>
 
 <!--
