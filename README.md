@@ -24,10 +24,10 @@
 </p>
          
 ### :white_medium_small_square: GitHub Stats
-<nav>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="250px" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="250px"/>
-</nav>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="255px"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="255px"/>
+</p>
 
 <!--
 - 🔭 I’m currently working on Advanced JavaScript
