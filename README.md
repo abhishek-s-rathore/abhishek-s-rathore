@@ -1,6 +1,6 @@
 <div align="center"> <h1>Hi, I'm <i>Abhishek Singh Rathore</i>. 👋 </h1></div>
 
-<div align="center"> <img  src="./assets/giphy.gif" width="55%" height="300px"> </div>
+<div align="center"> <img  src="./assets/giphy.gif" width="55%"> </div>
 <br>
 
 ### :white_medium_small_square: About Me
