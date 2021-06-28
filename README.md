@@ -24,7 +24,7 @@
           <a href="mailto:abhishek.140999@gmail.com" target="_blank">
     <img src="./assets/gmail-icon.png" width="30px" height="30px"/> </a>
      <a href="https://www.codewars.com/users/abhishek-s-rathore" target="_blank">
-    <img src="./assets/codewars-icon.png" width="30px" height="30px"/> </a>
+    <img src="./assets/codewars-icon.svg" width="30px" height="30px"/> </a>
 </nav>
 <br>
 
