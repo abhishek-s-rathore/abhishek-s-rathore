@@ -16,16 +16,19 @@
 
 ### :white_medium_small_square: Get In Touch
 
-<nav>
-    <a href="https://www.linkedin.com/in/abhishek-singh-rathore-878372205" target="_blank">
-    <img src="./assets/linkedin-icon.png" width="30px" height="30px"/> </a>
+   <nav>
+       <a href="https://www.linkedin.com/in/abhishek-singh-rathore-878372205" target="_blank">
+          <img src="./assets/linkedin-icon.png" width="30px" height="30px"/>
+       </a>
        <a href="https://twitter.com/TheAbhi98765" target="_blank">
-    <img src="./assets/twitter-icon.png" width="30px" height="30px"/> </a>
-          <a href="mailto:abhishek.140999@gmail.com" target="_blank">
-    <img src="./assets/gmail-icon.png" width="30px" height="30px"/> </a>
+          <img src="./assets/twitter-icon.png" width="30px" height="30px"/> 
+       </a>
+       <a href="mailto:abhishek.140999@gmail.com" target="_blank">
+          <img src="./assets/gmail-icon.png" width="30px" height="30px"/> 
+        </a>
      <a href="https://www.codewars.com/users/abhishek-s-rathore" target="_blank">
     <img src="./assets/codewars-icon.svg" width="30px" height="30px"/> </a>
-</nav>
+   </nav>
 <br>
 
 ### :white_medium_small_square: Tech And Tools
@@ -46,7 +49,8 @@
   </p>
          
 ### :white_medium_small_square: GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=radical" height="270px" width="70.25%"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="270px" width="29.25%"/>
-</p>
+<!-- radical -->
+  <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhishek-s-rathore&show_icons=true&theme=tokyonight" height="270px" width="70.25%"/> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-s-rathore&theme=tokyonight" height="270px" width="29.25%"/>
+  </p>
