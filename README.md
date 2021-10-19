@@ -6,14 +6,12 @@
 
 ### :white_medium_small_square: About Me
 
-"An Aspiring Full Stack Web Developer."
+#### "A mission-driven Full-Stack/Front-End Developer with a passion for thoughtful work, collaboration, and alacrity to learn."
 
-<!-- - 🔭 I’m currently working on Advanced JavaScript -->
-<!-- - 🌱 I’m currently learning Advanced JavaScript -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - ⚡ Fun fact: ... -->
-<!-- radical -->
+- 🔭 I’m currently working on React.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate for a React project.
+- ⚡ Fun fact: I love to capture nature.
 
 ### :white_medium_small_square: Get In Touch
 
@@ -26,9 +24,10 @@
        </a>
        <a href="mailto:abhishek.140999@gmail.com" target="_blank">
           <img src="./assets/gmail-icon.png" width="30px" height="30px"/> 
-        </a>
-     <a href="https://www.codewars.com/users/abhishek-s-rathore" target="_blank">
-    <img src="./assets/telegram-icon.png" width="30px" height="30px"/> </a>
+       </a>
+       <a href="http://t.me/abhishek_s_rathore" target="_blank">
+          <img src="./assets/telegram-icon.png" width="30px" height="30px"/> 
+       </a>
    </nav>
 <br>
 
