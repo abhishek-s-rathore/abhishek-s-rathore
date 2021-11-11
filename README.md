@@ -6,7 +6,7 @@
 
 ### :white_medium_small_square: About Me
 
-#### "A mission-driven Full-Stack/Front-End Developer with a passion for thoughtful work, collaboration, and alacrity to learn."
+#### "A mission-driven Full-Stack Developer with a passion for thoughtful work, collaboration, and alacrity to learn."
 
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning React.
