@@ -9,7 +9,7 @@
 #### "A mission-driven Full-Stack Developer with a passion for thoughtful work, collaboration, and alacrity to learn."
 
 - 🔭 I’m currently working on React.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Socket.io.
 - 👯 I’m looking to collaborate for a React project.
 - ⚡ Fun fact: I love to capture nature.
 
