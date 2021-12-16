@@ -12,11 +12,6 @@
 - 🌱 I’m currently learning Socket.io.
 - 👯 I’m looking to collaborate for a React project.
 
-### :white_medium_small_square: Portfolio
-
-       <a href="https://abhishek-s-rathore.live" target="_blank">
-         abhishek-s-rathore.live
-       </a>
 
 ### :white_medium_small_square: Get In Touch
 
@@ -35,6 +30,14 @@
        </a>
    </nav>
 <br>
+
+### :white_medium_small_square: Portfolio
+
+<nav>
+       <a href="https://abhishek-s-rathore.live" target="_blank">
+              abhishek-s-rathore.live
+       </a>
+</nav>
 
 ### :white_medium_small_square: Tech And Tools
 
